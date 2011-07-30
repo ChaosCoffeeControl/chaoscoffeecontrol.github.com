@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://chaoscoffeecontrol.com/atom.xml" rel="self"/>
+  <link href="http://chaoscoffeecontrol.com/"/>
+  <updated>2011-07-30T10:11:52+02:00</updated>
+  <id>http://chaoscoffeecontrol.com/</id>
+  <author>
+    <name>The ChaosCoffeeControl Team</name>
+    
+  </author>
+
+  
+</feed>
