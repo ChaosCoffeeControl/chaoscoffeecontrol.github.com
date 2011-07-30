@@ -174,6 +174,8 @@ task :push do
   (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
   system "cp -R #{public_dir}/* #{deploy_dir}"
   puts "\n## copying #{public_dir} to #{deploy_dir}"
+  puts "\n## Creating CNAME hack in #{deploy_dir}"
+  system "echo chaoscoffeecontrol.de > #{deploy_dir}/CNAME"
   cd "#{deploy_dir}" do
     system "git add ."
     system "git add -u"
