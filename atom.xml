@@ -4,12 +4,23 @@
   <title></title>
   <link href="http://chaoscoffeecontrol.com/atom.xml" rel="self"/>
   <link href="http://chaoscoffeecontrol.com/"/>
-  <updated>2011-07-30T14:07:12+02:00</updated>
+  <updated>2011-07-30T18:53:03+02:00</updated>
   <id>http://chaoscoffeecontrol.com/</id>
   <author>
     <name>The ChaosCoffeeControl Team</name>
     
   </author>
 
+  
+  <entry>
+    <title>Chaos Communication Camp 2011</title>
+    <link href="http://chaoscoffeecontrol.com/blog/2011/07/30/chaos-communication-camp-2011/"/>
+    <updated>2011-07-30T14:25:00+02:00</updated>
+    <id>http://chaoscoffeecontrol.com/blog/2011/07/30/chaos-communication-camp-2011</id>
+    <content type="html">&lt;p&gt;Thanks to massive amounts of caffeine and peer pressure, we will be
+providing an excellent coffee experience at the &lt;a href=&quot;http://events.ccc.de/camp/2011/wiki/C3MA&quot;&gt;C3MA village&lt;/a&gt; on the
+camp. Gonium will bring &lt;a href=&quot;http://gonium.net/blog/2011/04/14/pid-ftw!/&quot;&gt;Miss Silvia&lt;/a&gt; and additional equipment. We also have ordered a huge amount of &lt;a href=&quot;https://www.caffe-fausto.de/Espresso_espresso_monaco_250g.html&quot;&gt;Espresso Monaco&lt;/a&gt;:&lt;/p&gt;
+</content>
+  </entry>
   
 </feed>
