@@ -13,7 +13,27 @@ camp. Gonium will bring his modified [Miss Silvia](http://gonium.net/blog/2011/0
 
 We have ordered a huge amount of [Espresso Monaco](https://www.caffe-fausto.de/Espresso_espresso_monaco_250g.html):
 
-{% img /media/20110730/20110730-camp-espresso.jpg [800 600] [3 kg Espresso] %}
+{% img /media/20110730/20110730-camp-espresso.jpg 800 600 3 kg Espresso %}
 
 It has been roasted on July 26th, so it is really fresh and delicious.
-If you're at the camp, make sure to drop by. And don't forget to tip :D
+If you're at the camp, make sure to drop by. 
+
+### What to bring
+
+We don't have an unlimited supply of fresh cups, and we don't like to
+clean cups all day. So, please bring a cup on you own. Here's what you
+*don't* want to bring:
+
+{% img /media/20110730/20110730-camp-wrongcup.jpg 800 600 Bring one of these and get laughed at. %}
+
+First of all, you don't want to show people that you drink coffee at
+Starbucks, seriously. The second problem with this kind of cup is the
+height: It doesn't fit under the portafilter. So: *don't*.
+
+For your quick reference here's what your cup should look like:
+
+{% img /media/20110730/20110730-camp-cups.jpg 800 600 Green: ACK, Red: NAK. %}
+
+The green cups are totally cool and work. The red one &mdash; you know
+the drill. So, bring the right cup and some time, and we try to provide
+you with a delicious coffee. 
